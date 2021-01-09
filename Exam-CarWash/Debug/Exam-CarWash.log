@@ -1,0 +1,7 @@
+﻿  PrintPictures.cpp
+c:\users\vitalii\source\repos\exam-carwash\exam-carwash\printpictures.cpp(15): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  WorkDay.cpp
+  main.cpp
+c:\users\vitalii\source\repos\exam-carwash\exam-carwash\main.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Exam-CarWash.vcxproj -> C:\Users\Vitalii\source\repos\Exam-CarWash\Debug\Exam-CarWash.exe
